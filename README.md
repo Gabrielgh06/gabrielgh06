@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bem vindo ao meu Git
 
 <!--
 **Gabrielgh06/gabrielgh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,16 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a>
-<div align="center">
-   <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielgh06&theme=tokyonight%22/%3E 
-   <img height "130em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielgh06&theme=tokyonight%22/%3E 
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielgh06&layout=compact&langs_count=7&theme=tokyonight&hide_border=true%22/%3E 
- </a>
-</div>
-
-[![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gabrielgh06&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/Gabrielgh06/github-readme-activity-graph)
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">  <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
